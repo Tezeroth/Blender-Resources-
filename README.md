@@ -4,3 +4,4 @@ Links to resources
 - https://www.bentley.com/software/e-on-software-downloads/
 - https://www.thebasemesh.com/
 - https://www.youtube.com/watch?v=N_WbUWWOwtQ ( UV unwrapping tool)
+- https://actorcore.reallusion.com/auto-rig/accurig ( rigging )
