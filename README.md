@@ -1,4 +1,6 @@
-HOMEWORK FOR TOMMOROW: https://www.youtube.com/watch?v=Vipz434-0N8
+HOMEWORK FOR TOMMOROW: 
+- https://www.youtube.com/watch?v=Vipz434-0N8
+- https://www.youtube.com/watch?v=1R-9PdTM-LQ
 
 https://www.realtimerendering.com/usd_gltf.html
 find the pipeline. 
