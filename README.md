@@ -1,3 +1,5 @@
+HOMEWORK FOR TOMMOROW: https://www.youtube.com/watch?v=Vipz434-0N8
+
 https://www.realtimerendering.com/usd_gltf.html
 find the pipeline. 
 see what you can get out of nvidia USD composer.
