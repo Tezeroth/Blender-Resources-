@@ -1,6 +1,8 @@
 https://www.realtimerendering.com/usd_gltf.html
 find the pipeline. 
 see what you can get out of nvidia USD composer.
+when exporting as gltf, deselect vertex colors - watch this https://www.youtube.com/watch?v=PIpCl6TYnC0 may find other usefull things
+
 
 # Blender-Resources-
 Links to resources
