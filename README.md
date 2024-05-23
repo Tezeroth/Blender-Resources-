@@ -11,14 +11,16 @@ Links to resources
 - https://actorcore.reallusion.com/auto-rig/accurig ( rigging )
 - https://gltf.insimo.com/ (gltf file checker)
 
-  REMEMBER YOU HAVE THESE
-  - hardops and boxcutter
+
+ (Unrelated) REMEMBER YOU HAVE THESE
+  - hardhops and boxcutter
   - machin3 tools
   - mesh machin3
   - decal machin3
-  - armor paint (check if its updated)
-  - substance
+  - armor paint (check if it's updated)
+  - substance2020
   - zen UV
+  - MAKE sure you get quad remesher.
  
   FOR SHADERS IN UNITY
   -https://learnopengl.com/book/book_pdf.pdf
