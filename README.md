@@ -34,6 +34,8 @@ Links to resources
   FOR SHADERS IN UNITY
   -https://learnopengl.com/book/book_pdf.pdf
 
+"Hi, Armory3d will convert Eevee / Cycles node materials to glsl if you export for html5 / webgl. https://armory.itch.io/armory3d?download 66 Current Armory version (202311) works in Blender 3.6.5 LTS"
+
 
 watch this ( linear algebra) https://www.youtube.com/watch?v=fNk_zzaMoSs
    then GET THE REAL TIME RENDERING BOOK 4th edition
