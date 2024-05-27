@@ -7,6 +7,8 @@ find the pipeline.
 see what you can get out of nvidia USD composer.
 when exporting as gltf, deselect vertex colors - watch this https://www.youtube.com/watch?v=PIpCl6TYnC0 may find other usefull things
 
+https://materialx.org/
+
 
 # Blender-Resources-
 Links to resources
@@ -16,10 +18,11 @@ Links to resources
 - https://www.youtube.com/watch?v=N_WbUWWOwtQ ( UV unwrapping tool)
 - https://actorcore.reallusion.com/auto-rig/accurig ( rigging )
 - https://gltf.insimo.com/ (gltf file checker)
-
+- https://www.youtube.com/watch?v=Z3PwX1K9KDY&t=16s (decent UDIMS tutorial)
+- https://www.youtube.com/watch?v=jTeuNcSJK_Y (in depth UV tutorial for version 4)
 
  (Unrelated) REMEMBER YOU HAVE THESE
-  - hardhops and boxcutter
+  - hardops and boxcutter
   - machin3 tools
   - mesh machin3
   - decal machin3
