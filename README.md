@@ -1,7 +1,11 @@
 
 - https://www.youtube.com/watch?v=Vipz434-0N8
 - https://www.youtube.com/watch?v=1R-9PdTM-LQ
+  
 - https://www.youtube.com/watch?v=7_9uS2ixBCs (how to make heightmaps for sculpting)
+- https://www.youtube.com/watch?v=H6GvUdONkFI (same again with AI)
+
+- 
 https://www.realtimerendering.com/usd_gltf.html
 find the pipeline. 
 see what you can get out of nvidia USD composer.
